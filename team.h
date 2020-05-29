@@ -2,16 +2,8 @@
 
 #include "player.h"		// <string>
 
-
-
-
-
 class Team {
-
-
-
 	public:
-
 		Team();
 
 		std::string name;
